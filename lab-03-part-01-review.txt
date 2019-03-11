@@ -18,7 +18,7 @@ Write the command that you used to do this below:
 /Users/student
 ent-v314-007:~ student$
 
-
+~
 
 ==========
 2. Prove that you're in your home directory.
